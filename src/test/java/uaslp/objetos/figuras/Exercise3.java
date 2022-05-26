@@ -1,5 +1,6 @@
 package uaslp.objetos.figuras;
-
+import clases.*;
+import exeptions.*;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -10,7 +11,7 @@ public class Exercise3 {
 
     // EVITA USAR LOS ATAJOS DEL IDE PARA CREAR CLASES, METODOS Y VARIABLES
 
-    // NO DEBES MODIFICAR PARA NADA ESTA CLASE
+    // NO DEBES MODIFICAR PARLadoNoProvistoExceptionA NADA ESTA CLASE
 
     @Test
     public void testCuadrado() {
