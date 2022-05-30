@@ -1,5 +1,6 @@
 package uaslp.objetos.escuela;
 
+import clasesAlumnos.EvaluadorDePromediosAdapter;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
