@@ -1,5 +1,7 @@
 package uaslp.objetos.escuela;
 
+import clasesAlumnos.*;
+
 public class AlgoritmoX {
 
     private final Dependencia1 dependencia1;
