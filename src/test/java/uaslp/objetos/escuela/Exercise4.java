@@ -3,6 +3,7 @@ package uaslp.objetos.escuela;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.util.ReflectionUtils;
+import clasesAlumnos.*;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Modifier;
